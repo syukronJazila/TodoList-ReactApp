@@ -3,7 +3,6 @@ export default {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
-    'node_modules/preline/dist/*.js',
     'node_modules/flowbite-react/lib/esm/**/*.js',
   ],
   theme: {
@@ -27,7 +26,6 @@ export default {
   plugins: [
     require("rippleui"),
     require('@tailwindcss/forms'),
-    require('preline/plugin'),
     require('flowbite/plugin'),
 ],
 }
