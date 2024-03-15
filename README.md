@@ -1,8 +1,11 @@
-# React + Vite
+# Cara Menjalankan Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Download repository ini
+2. Unzip/ekstrak folder hasil downloadan repository ini
+3. Buka folder yang telah di unzip/ekstrak menggunakan kode editor (biasanya Vscode)
+4. Buka terminal di Vscode (bisa pake shortcut "ctrl + `")
+5. Jalankan perintah `npm i` di terminal untuk menginstall semua library yang dibutuhkan
+6. Jalankan perintah `npm run dev` di terminal
+7. Akses link yang muncul di terminal dengan cara ctrl + klik linknya
+8. Coba semua fitur TodoList ReactApp
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
