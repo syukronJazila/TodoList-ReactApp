@@ -7,7 +7,7 @@
 5. Jalankan perintah `npm i` di terminal untuk menginstall semua library yang dibutuhkan
 6. Jika terdapat error atau masalah saat mendownload library jalankan perintah `npm audit fix`
 7. Jalankan perintah `npm run dev` di terminal
-8. Jika link tidak muncul jalankan perintah `npm i vite`
-9. Akses link yang muncul di terminal dengan cara ctrl + klik linknya
-10. Coba semua fitur TodoList ReactApp
+8. Jika link tidak muncul atau terdapat error jalankan perintah `npm i vite`. Setelah selesai jalankan lagi perintah `npm run dev`.
+10. Akses link yang muncul di terminal dengan cara ctrl + klik linknya
+11. Coba semua fitur TodoList ReactApp
 
